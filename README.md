@@ -1,7 +1,7 @@
 # BRAIN Initiative 9th Annual Meeting
 
 ## Poster
-![](assets/Screen Shot 2023-06-12 at 9.04.40 AM.png)
+![](assets/Screen\ Shot\ 2023-06-12\ at\ 9.04.40\ AM.png)
 
 ## Code and libraries
 
