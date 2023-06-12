@@ -1,4 +1,4 @@
-# CZI Single Cell Biology Annual Meeting
+# BRAIN Initiative 9th Annual Meeting
 
 ## Poster
 ![](assets/poster.jpg)
