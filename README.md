@@ -27,6 +27,10 @@ Spatial network analysis: [mosna](https://github.com/AlexCoul/mosna)
 ![](assets/Lung_FISH_zoom.png)
 *Lung RNA FISH zoomed, scale bar 40 µm*
 
+## BiFISH
+
+*We begin with a hierarchical statistical model of latent variables.*
+
 ## References
 
 ### RNA-FISH
