@@ -31,6 +31,12 @@ Spatial network analysis: [mosna](https://github.com/AlexCoul/mosna)
 
 *We begin with a hierarchical statistical model of latent variables.*
 
+![](assets/simplified_modelIII.pdf)
+
+*In equations, the latent variables arise from the following forward model.*
+
+![](assets/eqq.png)
+
 ## References
 
 ### RNA-FISH
