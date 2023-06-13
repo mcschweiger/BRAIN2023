@@ -1,7 +1,7 @@
 # BRAIN Initiative 9th Annual Meeting
 
 ## Poster
-![](assets/BRAIN Meeting 2023 poster.png)
+![](assets/BRAINMeeting2023poster.png)
 
 ## Code and libraries
 
